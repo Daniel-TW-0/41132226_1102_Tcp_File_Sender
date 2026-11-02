@@ -1,7 +1,0 @@
-# Hashes of file build rules.
-92d0ad0deb583c6534fe63ae2c2f1f06 .qt/rcc/qrc_TcpFileSender_translations.cpp
-119174708ba34d4344d2906433f9b302 CMakeFiles/TcpFileSender_autogen
-119174708ba34d4344d2906433f9b302 CMakeFiles/TcpFileSender_lrelease
-449e835e610fea67e4f3639206b1f93d CMakeFiles/TcpFileSender_lupdate
-2abc1ddc0308c9e860ed0d627c6adff3 TcpFileSender_autogen/timestamp
-66d10e9abe644a1986359396345d18eb TcpFileSender_zh_TW.qm
